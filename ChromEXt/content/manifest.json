@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "CSS Styler",
+  "version": "1.0",
+  "description": "Upload JSON to style elements a, p, h1, h2",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
